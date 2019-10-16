@@ -1,2 +1,2 @@
-# Hellow-World
+# Hello-World
 Hajimete tsukutta yatsu
